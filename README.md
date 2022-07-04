@@ -13,14 +13,14 @@
 ### 1. Voicemmeter를 설치해주세요.
 ### 1. (install Voicemeeter)
 - 다운로드 주소 (Download URL) : https://vb-audio.com/Voicemeeter/index.htm
-  
+
 ### 2. A1에 스피커 하나를 선택하고 닫아주세요.
 ### 2. (Select Speaker in A1 than close)
 ![1](https://user-images.githubusercontent.com/62262001/177206329-6d194c2e-577f-4522-a50a-4c7ea5a674f8.png)
 
 ### 3. HostMusicPlayer.exe를 실행해주세요.
 ### 3. (execute HostMusicPlayer.exe)
-  
+
 ### 4. '출력 1'에는 본인이 듣는 스피커를 '출력 2'에는 상대방이 들을 수 있도록 Voicemeeter Input으로 설정해주세요.
 ### 4. (Output 1 set to your sound driver, Output 2 set to Voicemeeter Input)
 ![2](https://user-images.githubusercontent.com/62262001/177207810-71670024-16a6-4bed-add7-7b0dc72d850e.png)
