@@ -121,8 +121,8 @@ public class GUI {
 		language = language < 0 ? 0 : language;
 		
 		audio = ms.getinfoResult();
-		boldFont = new Font(fontName[language], Font.BOLD, 20);
-		plainFont = new Font(fontName[language], Font.PLAIN, 20);
+		boldFont = new Font(fontName[language], Font.BOLD, 18);
+		plainFont = new Font(fontName[language], Font.PLAIN, 18);
 		
 		initialize();
 		getSetting();
