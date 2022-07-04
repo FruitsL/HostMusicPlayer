@@ -5,7 +5,7 @@
 ## 설치 가이드 (install guide)
 - 주의! (Caution!)
 1. 해당 가이드는 jre가 포함된 버전을 기준으로 설명합니다. (this guide is based on included jre version)
-
+2. music.wav를 절대로 삭제하지 마세요! (Do NOT delete music.wav file)
 
 ### 1. Voicemmeter를 설치해주세요. (install Voicemeeter)
 - 다운로드 주소 (Download URL) : https://vb-audio.com/Voicemeeter/index.htm
