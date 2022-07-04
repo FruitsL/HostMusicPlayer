@@ -11,6 +11,7 @@
 - 다운로드 주소 (Download URL) : https://vb-audio.com/Voicemeeter/index.htm
 
 ### 2. A1에 스피커 하나를 선택하고 닫아주세요. (Select Speaker in A1 than close)
+![1](https://user-images.githubusercontent.com/62262001/177206329-6d194c2e-577f-4522-a50a-4c7ea5a674f8.png)
 
 ### 3. HostMusicPlayer.exe를 실행해주세요. (execute HostMusicPlayer.exe)
 
