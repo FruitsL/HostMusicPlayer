@@ -1,7 +1,9 @@
 # Host's Music Player (방장의 음악 재생)
 
 자바가 포함된 버전 다운로드 (included jre version download) : https://drive.google.com/file/d/1OZbC8bSMT6x32ITi0m-inad1ZK4lBX4k/view?usp=sharing
+
 Java 8 download : https://www.java.com/en/download/ie_manual.jsp?locale=en
+
 jre 17 & jre 18 download : https://www.oracle.com/java/technologies/downloads/
 
 ## 설치 가이드 (install guide)
