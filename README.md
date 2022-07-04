@@ -16,3 +16,4 @@
 ### 3. HostMusicPlayer.exe를 실행해주세요. (execute HostMusicPlayer.exe)
 
 ### 4. '출력 1'에는 본인이 듣는 스피커를 '출력 2'에는 상대방이 들을 수 있도록 Voicemeeter Input으로 설정해주세요. (Output 1 set to your sound driver, Output 2 set to Voicemeeter Input)
+![2](https://user-images.githubusercontent.com/62262001/177207810-71670024-16a6-4bed-add7-7b0dc72d850e.png)
