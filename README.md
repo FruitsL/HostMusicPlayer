@@ -1,4 +1,4 @@
-# Host's Music Player (방장의 음악 재생)
+# 방장의 음악 재생 (Host's Music Player)
 
 - 자바가 미포함된 버전 다운로드 (Download NOT included jre ver) : https://drive.google.com/file/d/13wR4_qIP95_jvND34g6_9ml6VW-tgaH-/view?usp=sharing
 - 자바가 포함된 버전 다운로드 (Download included jre ver) : https://drive.google.com/file/d/1OZbC8bSMT6x32ITi0m-inad1ZK4lBX4k/view?usp=sharing
