@@ -39,3 +39,12 @@
 ### 7. Joined voice chat and enjoy
 
 ## 사용 가이드 (user guide)
+
+### 음악을 추가하려면 그림과 같이 테두리가 생기도록 음악 파일을 드래그하여 옮기세요.
+### if you want add music, drag and drop music file to create a border as shown in the picture
+
+### 음악을 재생하거나 종료하려면 버튼을 누르거나 오버워치에서 F11, F12를 누르세요.
+### to play or stop music, press the button or press F11, F12 in overwatch
+
+### 시작 딜레이는 음악이 시작되기까지 기다리는 시간입니다.
+### start dalay is the amount of time waiting for the music to start
