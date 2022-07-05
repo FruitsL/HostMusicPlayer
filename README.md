@@ -37,3 +37,5 @@
 
 ### 7. 음성 대화에 들어가서 게임을 즐기세요.
 ### 7. Joined voice chat and enjoy
+
+## 사용 가이드 (user guide)
