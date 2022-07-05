@@ -42,6 +42,7 @@
 
 ### 음악을 추가하려면 그림과 같이 테두리가 생기도록 음악 파일을 드래그하여 옮기세요.
 ### if you want add music, drag and drop music file to create a border as shown in the picture
+![5](https://user-images.githubusercontent.com/62262001/177368032-44dc7ee7-a995-4923-9f27-fef5599f57d7.png)
 
 ### 음악을 재생하거나 종료하려면 버튼을 누르거나 오버워치에서 F11, F12를 누르세요.
 ### to play or stop music, press the button or press F11, F12 in overwatch
