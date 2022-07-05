@@ -40,7 +40,7 @@ public class GUI {
 	private String filePath, fileType, fileName;
 	private ArrayList<String> musicType = new ArrayList<>(List.of("wav", "mp3"));
 	private ArrayList<String> audio;
-	private String fontName[] = {"Consolas", "굴림"};
+	private String fontName[] = {"굴림", "굴림"};
 	static File settingFile;
 	
 	private JFrame frame;
